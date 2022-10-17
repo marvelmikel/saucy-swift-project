@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "727664446318",
+    "project_id": "saucy-e680a",
+    "storage_bucket": "saucy-e680a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727664446318:android:f46ce8975614882f420f7f",
+        "android_client_info": {
+          "package_name": "com.saucyandswift.mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727664446318-7aa51gbhm7e5jodb9vs3hreccn1s7kph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUdHgQ40sd7Tu3f28jZBTfbncR24ikr-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727664446318-7aa51gbhm7e5jodb9vs3hreccn1s7kph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
